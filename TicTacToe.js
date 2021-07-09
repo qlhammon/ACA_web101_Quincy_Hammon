@@ -66,6 +66,7 @@ const diagonalWin = () => {
 
 const checkForWin = () => {
   // Your code here call each of the check for types of wins
+  // If any of the win functions are true return true.
   if (horizontalWin() == true || verticalWin() == true || diagonalWin() == true){
       return true;
   }
@@ -74,7 +75,6 @@ const checkForWin = () => {
 const ticTacToe = (row, column) => {
   // Your code here to place a marker on the board
   // then check for a win
-  const playerMove = (row, column){
       board [row][column].push(playerTurn)
   }
 
