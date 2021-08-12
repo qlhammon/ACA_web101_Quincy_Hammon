@@ -1,0 +1,19 @@
+{
+  "name": "aca_js211_quincy_hammon",
+  "version": "1.0.0",
+  "description": "This is my ACA portfolio",
+  "main": "API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlhammon/ACA_web101_Quincy_Hammon.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qlhammon/ACA_web101_Quincy_Hammon/issues"
+  },
+  "homepage": "https://github.com/qlhammon/ACA_web101_Quincy_Hammon#readme"
+}
